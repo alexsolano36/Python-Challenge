@@ -1,0 +1,10 @@
+Election Results
+Total Vote: 10563003
+Correy: 19.999994319797125% (704200)
+The winner is: Khan
+Khan: 63.00001050837531% (2218231)
+The winner is: Khan
+Li: 13.999996023857989% (492940)
+The winner is: Khan
+O'Tooley: 2.999999147969569% (105630)
+The winner is: Khan
